@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="30dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="10dp"
+    tools:context="com.ajengkelin.androidcafe.DetailMenuActivity">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DETAIL MENU"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/txtNamaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/judul"
+        android:text="Nama Menu"/>
+
+    <TextView
+        android:id="@+id/txtHarga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtNamaMenu"
+        android:text="Harga"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/txtStok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtHarga"
+        android:text="Stok"
+        android:layout_marginTop="20dp"/>
+
+    <ImageButton
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/holo_red_dark"
+        app:srcCompat="@android:drawable/ic_menu_delete"
+        android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/judul"
+        android:layout_toEndOf="@+id/judul" />
+
+    <ImageButton
+        android:id="@+id/btnUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="26dp"
+        android:layout_marginStart="26dp"
+        android:layout_toEndOf="@+id/txtNamaMenu"
+        android:layout_toRightOf="@+id/txtNamaMenu"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        app:srcCompat="@android:drawable/ic_menu_edit" />
+
+</RelativeLayout>

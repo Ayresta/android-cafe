@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "1049876056208",
+    "firebase_url": "https://restoran-2-3b.firebaseio.com",
+    "project_id": "restoran-2-3b",
+    "storage_bucket": "restoran-2-3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049876056208:android:93aa5de92c10cafc",
+        "android_client_info": {
+          "package_name": "mobile.com.restoran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049876056208-b5nuq1mfhntkvbsgnfsjr8ca6pssq1v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.com.restoran",
+            "certificate_hash": "1d7266b33c80124048e7cf82ed73d920d60af315"
+          }
+        },
+        {
+          "client_id": "1049876056208-g2dg6b08ok5sm8e4fa2qqro1rbl35aur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.com.restoran",
+            "certificate_hash": "4e574321aba9f0c5faaf28b277cb203064ca65a7"
+          }
+        },
+        {
+          "client_id": "1049876056208-v3gb7b6239stgh23qnesfcqedqv7rdg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQu46P-hXHIOxh_BGT7lZeinBeXkRQU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049876056208-v3gb7b6239stgh23qnesfcqedqv7rdg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049876056208:android:687781d84ee68e6d",
+        "android_client_info": {
+          "package_name": "com.ajengkelin.androidcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049876056208-u6pn3ok0mo6vrigfot5ionrgsjphe1tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajengkelin.androidcafe",
+            "certificate_hash": "4e574321aba9f0c5faaf28b277cb203064ca65a7"
+          }
+        },
+        {
+          "client_id": "1049876056208-en2f6tpgj6nalq53se7nlq0d9is6a82n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajengkelin.androidcafe",
+            "certificate_hash": "1d7266b33c80124048e7cf82ed73d920d60af315"
+          }
+        },
+        {
+          "client_id": "1049876056208-v3gb7b6239stgh23qnesfcqedqv7rdg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQu46P-hXHIOxh_BGT7lZeinBeXkRQU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049876056208-v3gb7b6239stgh23qnesfcqedqv7rdg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

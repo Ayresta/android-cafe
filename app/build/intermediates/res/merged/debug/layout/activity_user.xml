@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ajengkelin.androidcafe.UserActivity">
+
+    <!-- Login progress -->
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="99.33"
+        app:srcCompat="@drawable/user" />
+
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silahkan masukkan data diri Anda"
+        android:textSize="15dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp" />
+
+    <EditText
+        android:id="@+id/txtNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama"
+        android:layout_below="@+id/judul"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+
+    <EditText
+        android:id="@+id/txtNoHp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="No HP"
+        android:layout_below="@+id/txtNama"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <Button
+        android:id="@+id/btnMasuk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtNoHp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Masuk" />
+
+    <Button
+        android:id="@+id/btnKembali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnMasuk"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Kembali" />
+</RelativeLayout>
+

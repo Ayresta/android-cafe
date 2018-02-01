@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Android Cafe</string>
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+    <string name="navigation_view_item_1">Beranda</string>
+    <string name="navigation_view_item_2">Daftar Menu</string>
+    <string name="navigation_view_item_3">Pemesanan</string>
+    <string name="navigation_view_item_4">Lokasi</string>
+    <string name="navigation_view_item_5">Tentang Kami</string>
+    <string name="navigasi_kategori_2">Admin</string>
+    <string name="navigation_view_item_6">Login</string>
+    <!-- <string name="navigation_view_item_6">Exit</string>-->
+    <string name="title_activity_admin">Sign in</string>
+
+    <!-- Strings CardView -->
+    <string name="title">Menu Desa namun eksotik</string>
+    <string name="description">Mengemas tempat yang mengusung kesan pedesaan tak mengurangi berbagai macam hidangan dan variasi sambel yang menggugah selera.
+       </string>
+    <string name="description1">
+        untuk wisatawan tempat ini cocok untuk menikmati masakan nusantara. Anda bisa memilih menu makanan dan
+        bebas menanyakan bahan terbuat dari apa?
+
+       </string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_location">Map</string>
+</resources>

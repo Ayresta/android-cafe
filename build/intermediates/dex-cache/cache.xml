@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkhamdank\.android\build-cache\9c413c0fd7d2adaafa5876a7fec6633ea5417e34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\AndroidCafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92c1aa6b922d4b9238fdd79eb105f443b1c4a985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkhamdank\AndroidStudioProjects\AndroidCafe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\AndroidCafe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8388602f52bc650065425bd87246b8888eb71ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkhamdank\AndroidStudioProjects\AndroidCafe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a1c29df4ea524307c99acabd8fb312a48a0bfd8b">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\AndroidCafe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0ed27ae7ce8fd4b275208eb8f04bced5bf748b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkhamdank\.android\build-cache\31cfccb90e98d6633141797117229a32e44f3813\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\mkhamdank\AndroidStudioProjects\AndroidCafe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ec575fdf904b47e6dea014caa08eaa5246b3f46\classes.dex" />
+    </item>
+
+</items>

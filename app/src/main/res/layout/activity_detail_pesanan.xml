@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="20dp"
+    tools:context="com.ajengkelin.androidcafe.DetailPesananActivity">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DETAIL PESANAN"
+        android:layout_centerHorizontal="true"/>
+
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/infoMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/judul"
+        android:text="Nama Pelanggan : "/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/txtNamaPelanggan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/judul"
+        android:layout_toRightOf="@+id/infoMenu"
+        android:text="Nama Pelanggan"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvPesanan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/txtNamaPelanggan">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/infoHargaTot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:layout_alignParentBottom="true"
+        android:text="Harga Total "/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/txtHargaTotal"
+        android:layout_marginBottom="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="HargaTotal"/>
+
+    <Button
+        android:id="@+id/btnPesan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pesan"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

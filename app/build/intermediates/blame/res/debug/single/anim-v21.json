@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ajeng\\Downloads\\AndroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Ajeng\\.android\\build-cache\\2db4c6ea8f215195bfd8b9fed11ef89992dbfc48\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ajeng\\Downloads\\AndroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Ajeng\\.android\\build-cache\\2db4c6ea8f215195bfd8b9fed11ef89992dbfc48\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhamdank\\AndroidStudioProjects\\AndroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\mkhamdank\\.android\\build-cache\\13ffd8f06e3bb654e92a64ceb25db0c091a1f273\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhamdank\\AndroidStudioProjects\\AndroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\mkhamdank\\.android\\build-cache\\13ffd8f06e3bb654e92a64ceb25db0c091a1f273\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
